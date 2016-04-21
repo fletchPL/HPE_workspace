@@ -8,3 +8,18 @@ nav.context{
 .context{
   background-color: green;
 }
+
+input {
+
+}
+label {
+
+}
+.clear-righ{
+  float:left;
+  clear: right;
+  width: auto;
+}
+.submit{
+  float: left;
+}
