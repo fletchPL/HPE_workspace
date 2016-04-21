@@ -10,15 +10,17 @@ nav.context{
 }
 
 input {
-
+  padding: 8px;
+  margin: 8px;
+  box-sizing: border-box;
 }
 label {
 
 }
-.clear-righ{
+.clear-right{
   float:left;
   clear: right;
-  width: auto;
+  width: 100%;
 }
 .submit{
   float: left;
