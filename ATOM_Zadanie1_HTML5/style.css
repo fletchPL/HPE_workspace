@@ -1,3 +1,10 @@
 nav ul li {
   display:inline-block;
 }
+nav.context{
+  background.color: red;
+
+}
+.context{
+  background.color: green;
+}
